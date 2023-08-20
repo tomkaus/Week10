@@ -1,0 +1,14 @@
+{
+  "name": "week10assignmenta",
+  "version": "1.0.0",
+  "description": "week10",
+  "main": "Week10Scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomKaus",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
